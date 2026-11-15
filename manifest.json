@@ -1,0 +1,19 @@
+{
+  "name": "علوم ششم - پارسا",
+  "short_name": "علوم ششم",
+  "description": "اپلیکیشن آموزشی علوم تجربی پایه ششم",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#f1f8e9",
+  "theme_color": "#2e7d32",
+  "lang": "fa",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
